@@ -1,6 +1,6 @@
 # Emulator Configs
 
-Backups of various config files (especially keybinds) for various emulators.
+Backups of various config files (especially keybinds) for various games/emulators.
 
 - Super Smash Bros. Brawl (on Dolphin):
   - [Main Keybinds (GameCube Controller)](./dolphin/GCPad/SSBB.ini)
