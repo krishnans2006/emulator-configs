@@ -1,5 +1,5 @@
-# Dolphin Emulator Configs
+# Emulator Configs
 
-Backups of various config files for the [Dolphin Emulator](https://github.com/dolphin-emu/dolphin).
+Backups of various config files (especially keybinds) for various emulators.
 
-See [SSBB.ini](./GCPad/SSBB.ini) for my SSBB GameCube keybinds.
+- Super Smash Bros. Brawl (on Dolphin): [Main Keybinds (GameCube Controller)](./dolphin/GCPad/SSBB.ini), [Wiimote](./dolphin/Wiimote/SSBB.ini)
